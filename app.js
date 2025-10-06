@@ -1,4 +1,4 @@
-/*
+
 let vc=prompt("Enter your Letter");
 
 vc=vc.toLowerCase();
@@ -19,7 +19,7 @@ else if(vc == "b" || vc =="c" || vc=="d" || vc=="f" || vc=="g" || vc == "h"
 else
 document.writeln("invalids");
 
-*/
+
 /*
 function extracAlphabets(str){               
                      // গ্লোবাল ওঃকেস ইনসেন্সিটিভ (g,i) ফ্ল্যাগ দিয়ে সব অক্ষরগুলো পাবো
